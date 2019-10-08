@@ -14,3 +14,7 @@ def link
   catchphrase = "It's Dangerous To Go Alone! Take This."
   puts catchphrase
 end
+
+def any_phrase(phrase)
+  puts phrase
+end
